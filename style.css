@@ -4,7 +4,7 @@ html, body{
 }
 #background1{
 
-    background: url('Imgs/background/Background\ pic\ 1920x1080.png') center center no-repeat;
+    background: url('Background\ pic\ 1920x1080.png') center center no-repeat;
     color: white;
     height:100%;
     width: 100%;
@@ -16,7 +16,7 @@ html, body{
 
 #background2{
     
-    background: url('Imgs/background/backgroundpic2.png') center center no-repeat;
+    background: url('backgroundpic2.png') center center no-repeat;
     color: white;
     height:100%;
     width: 100%;
@@ -26,7 +26,7 @@ html, body{
 
 #background3{
     
-    background: url('Imgs/background/background3.png') center center no-repeat;
+    background: url('background3.png') center center no-repeat;
     color: white;
     height:100%;
     width: 100%;
